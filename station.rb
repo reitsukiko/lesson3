@@ -1,5 +1,4 @@
 class Station
-
   attr_reader :name
   attr_accessor :trains
 
